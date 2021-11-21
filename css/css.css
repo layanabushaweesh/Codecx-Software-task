@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .div{
+   
+    background-size: cover;
+    margin: auto;
+   
+    border: 0.3px solid rgb(182, 79, 127);
+    background-position: center;
+  }
+
